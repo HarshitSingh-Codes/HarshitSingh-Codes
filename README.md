@@ -2,10 +2,10 @@
 <h3 align="center">A passionate Devops Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitsingh-codes&label=Profile%20views&color=0e75b6&style=flat" alt="harshitsingh-codes" /> </p>
-
+<!---               
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitsingh-codes" alt="harshitsingh-codes" /></a> </p>
-
-- 🌱 I’m currently learning **Devops**
+-->
+- 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **harshitpanu7900@gmail.com**
 

@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitsingh-codes" alt="harshitsingh-codes" /></a> </p>
 -->
 
-- 💬 Ask me about **AWS**, **IAC**, **terraform**,**terragrunt**, **CI/CD**, **Jenkins**
+- 💬 Ask me about **AWS**, **IAC**, **terraform**, **terragrunt**, **CI/CD** and **Jenkins**
 
 - 🌱 I’m currently learning **Docker** and **K8s** in **DevOps**
 

@@ -5,7 +5,10 @@
 <!---               
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitsingh-codes" alt="harshitsingh-codes" /></a> </p>
 -->
-- 🌱 I’m currently learning **DevOps**
+
+- 💬 Ask me about **AWS**, **IAC**, **terraform**,**terragrunt**, **CI/CD**, **Jenkins**
+
+- 🌱 I’m currently learning **Docker** and **K8s** in **DevOps**
 
 - 📫 How to reach me **harshitpanu7900@gmail.com**
 

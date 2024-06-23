@@ -7,9 +7,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitsingh-codes" alt="harshitsingh-codes" /></a> </p>
 -->
 
-- 💬 Ask me about **AWS**, **IAC**, **terraform**, **terragrunt**, **CI/CD** and **Jenkins**
+- 💬 Ask me about **AWS**, **IAC**, **Terraform**, **Terragrunt**, **CI/CD**, **Github Actions** and **Jenkins**
 
-- 🌱 I’m currently learning **Docker** and **K8s** in **DevOps**
+- 🌱 I’m currently learning **Azure**, **Docker** and **K8s** in **DevOps**
 
 - 📫 How to reach me **harshitpanu7900@gmail.com**
 

@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Azure**, **Docker** and **K8s** in **DevOps**
 
-- 📫 How to reach me **harshitpanu7900@gmail.com**
+- 📫 How to reach me **harshit.singh.codes@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
